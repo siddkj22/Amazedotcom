@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddharth Jadhav.
-- 👀 I’m interested in blockchain , machine learning.
-- 🌱 I’m currently learning machine learning.
-- I am in last year of engineering.
-- I know java , python ,javascript and go.
+- 👀 I’m interested in machine learning, deep learning and blockchain.
+- 🌱 I’m graduated in 2023 with CGPA of 8.04.
+- I have done projects in computer vision and speech.
+- I have experience in java, python, javascript and golan.
 
 
