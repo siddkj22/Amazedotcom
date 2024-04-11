@@ -5,7 +5,9 @@
 - I also have done full stack web applications.
 - I have experience in java, python, javascript and golang.
 - for backend, my work experience is in frameworks such as Flask, Django and SpringBoot.
-- for Machine learning and Deep learning models, frameworks such as TensorFlow and Pytorch are used.
+- I had worked on projects that heavily based on machine learning and deep learning.
+- I also have experience in frameworks such as TensorFlow and Pytorch are used.
+  
 
 
 
